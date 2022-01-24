@@ -1,0 +1,40 @@
+body{
+    background-color: whitesmoke);
+}
+h1:hover{
+    text-decoration: solid;
+    font-size: 40px;
+    font-family: serif;
+    color: gold;
+    background: gray;
+}
+
+table,
+td,
+tr{
+    border: 1px solid #244624;
+    width: auto;
+    margin: auto;
+    text-align: center;
+    table-layout: auto;
+    padding: 15px;
+    color: wheat;
+    background: rgb(149, 83, 196);
+    border-collapse: collapse;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+th{
+    height: auto;
+    width: auto;
+    color: midnightblue;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background: cadetblue;
+}
+
+td:hover{
+    color: black;
+    background: aquamarine;
+}
